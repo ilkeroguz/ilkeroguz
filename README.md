@@ -38,17 +38,27 @@ I build **AI-powered systems** that connect LLMs to real-world workflows — fro
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7B2FBE?style=for-the-badge)
 
+**Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-yellow?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-6C4CC4?style=for-the-badge)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
+
 **Backend & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Joblib](https://img.shields.io/badge/Joblib-3776AB?style=for-the-badge)
 
 **Automation & DevOps**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
@@ -84,32 +94,4 @@ I build **AI-powered systems** that connect LLMs to real-world workflows — fro
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkeroguz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF)
 
-</div>
-
----
-
-## 🤝 Let's Work Together
-
-> 💼 **I'm currently open to freelance projects!**
-
-If you need help with:
-- 🔌 Integrating LLMs (GPT, Claude, Llama) into your product
-- 🔄 Building automated data workflows
-- 🤖 Creating AI agents or chatbots
-- 📦 Deploying AI-powered backends
-
-**Reach out — let's build something.**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilker-oğuz-573945311/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilkeroguz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilker.oguz.ai@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <i>"Build things that matter. Automate the rest."</i>
 </div>
